@@ -1,6 +1,6 @@
 # Exercism-CSharp
 
-Repositório de estudo sobre a linguagem C#(CSharp) na palatforma Exercism.
+Repositório de estudo e desafios sobre a linguagem C#(CSharp) na plataforma Exercism.
 
 [Exercism's website](https://exercism.org/)
 
